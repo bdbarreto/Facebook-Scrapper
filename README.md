@@ -1,5 +1,5 @@
 # Facebook-Scrapper
-Facebook Scrapper is a facebook scrapping tool made in Python. It can scrap all the Post,likes,shares from a facebok post or a public group.
+Facebook Scrapper is a facebook scrapping tool made in Python. It can scrap all the Post,likes,shares from a facebook page or a public group.
 ### Features :
 
 * Scraps Like,Share and Post Details.
